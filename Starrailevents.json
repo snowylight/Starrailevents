@@ -1,0 +1,11 @@
+{
+  "id": "starrailevents",
+  "name": "starrailevents",
+  "prefix": "idst",
+  "author": ["snowylight", "baimao"],
+  "description": "ideas from starrail",
+  "main_file": "starrailevents.lua",
+  "priority": "100",
+  "badge_colour": "0099cc",
+  "version": "1.1.0",
+}
