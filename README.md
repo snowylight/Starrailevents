@@ -1,5 +1,5 @@
 # Starrailevents
-<img width=600px src="assets/starrail1.png?raw=true" alt="Project logo">
+<img width=600px src="assets/starail1.png?raw=true" alt="Project logo">
 <img width=600px src="assets/starrail2.png?raw=true" alt="Project logo">
 <img width=600px src="assets/starrail3.png?raw=true" alt="Project logo">
 
